@@ -1,7 +1,7 @@
 # Movies🍿
 Find your movie in the moves app
 
-## Descreption
+## Description
 movies project created with reactjs
 
 ## Preview✨
