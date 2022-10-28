@@ -1,5 +1,5 @@
 # Movies🍿
-Find your movie in the moves app
+Find your movie in the movies app
 
 ## Description
 Movies project created with reactjs
